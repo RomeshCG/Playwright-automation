@@ -1,4 +1,4 @@
-# Playwright Automation Project (IT23184480)
+# Playwright Automation Project (IT23184480 Gamadikari G.A.M.R.C.K)
 
 University assignment Playwright automation for **Swift Translator** (`https://www.swifttranslator.com/`).
 
