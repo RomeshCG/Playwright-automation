@@ -7,6 +7,10 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 
+# TypeScript build output
+/dist/
+*.tsbuildinfo
+
 # Environment variables
 .env
 .env.local
